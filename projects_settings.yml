@@ -15,10 +15,10 @@ projects:
       culpa qui officia deserunt mollit anim id
       est laborum.
     website: https://progetto.prova.gov.it/anagrafe 
-tags:
-        - anagrafe
-        - cittadini
-           comune
+    tags:
+      - anagrafe
+      - cittadini
+      - comune
     documents:
-      - title: mare-docs
-        repository: mare-docs
+      - title: estate-docs
+      - repository: estate-docs
