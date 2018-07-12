@@ -20,5 +20,5 @@ projects:
       - cittadini
       - comune
     documents:
-      - title: estate docs
-      - repository: estate-docs
+      - estate-docs
+      
