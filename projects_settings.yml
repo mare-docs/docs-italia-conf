@@ -1,5 +1,5 @@
 projects:
-  - title: Project d'estate 
+  - name: Project d'estate 
     short-name: estate
     description:
       Lorem ipsum dolor sit amet, consectetur
