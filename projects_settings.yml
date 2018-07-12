@@ -21,4 +21,4 @@ projects:
       - comune
     documents:
       - title: estate docs
-        repository: estate-docs
+      - repository: estate-docs
